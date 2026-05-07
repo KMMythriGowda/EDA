@@ -177,7 +177,7 @@ Statistical summaries and visualizations helped in understanding student perform
 
 ## Author
 
-**Mythri Gowda**  
+**K M Mythri Gowda**  
 B.Tech Student | Data Science & Machine Learning Enthusiast
 
 ---
